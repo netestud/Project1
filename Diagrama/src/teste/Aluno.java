@@ -21,6 +21,9 @@ public class Aluno {
 	System.out.println("Testando");
 		
 	}
+	public void imprimir(){
+		System.out.println("Test2");
+	}
 	
 
 }
